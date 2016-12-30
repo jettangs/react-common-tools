@@ -49,4 +49,4 @@ export const subRoutePath = (path, level = 1) => {
     return path
 }
 
-export default {subRoutePath}
+export default {getNode, getNodeValue, getDom, getDomValue, subRoutePath}
