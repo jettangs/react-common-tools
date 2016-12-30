@@ -1,6 +1,6 @@
 {
   "name": "react-common-tools",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A collection of function that common to use.",
   "main": "lib/index.js",
   "license": "BSD-2-Clause",
